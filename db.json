@@ -53,90 +53,207 @@
         "category": "Personal",
         "date": "2025-02-08",
         "id": "62d56dbe-31ff-4140-9bc3-c87572c7fd12"
-    },
-    {
+      },
+      {
         "title": "vodoo curse",
         "description": "must be done on sunday",
         "category": "Personal",
         "date": "2025-02-12",
         "id": "48fb4d4e-e92d-487a-978d-14421fa22d56"
-    },
-    {
+      },
+      {
         "title": "hj",
         "description": "sdfghj cvbn fghj ghj",
         "category": "Work",
         "date": "2025-02-28",
         "id": "c0649f71-0838-41d4-9668-fb850fe241b9"
-    },
-    {
+      },
+      {
         "title": "heavean is pack full of shit",
         "description": "mulovha ali ngado fana na matshelo",
         "category": "Personal",
         "date": "2025-02-09",
         "id": "f1656ced-be0d-4bb4-a98e-479c4964751c"
-    },
-    {
+      },
+      {
         "title": "Khangala mbili",
         "description": "vodoo curse gone wrong",
         "category": "Work",
         "date": "2025-02-05",
         "id": "77d86145-d2d2-46b3-b318-938bbc1324fd"
-    },
-    {
+      },
+      {
         "title": "dvtyhhnugb uyhyghg",
         "description": "tyrtyuiopfghfgbuyjukhnujyughnuiui",
         "category": "Personal",
         "date": "2025-02-08",
         "id": "08a92c37-9903-4a02-8ca2-ec5f5a905dcb"
-    },
-    {
+      },
+      {
         "title": "blood sacrifice",
         "description": "the vodoo curse",
         "category": "Personal",
         "date": "2025-02-06",
         "id": "547e8c24-41a7-4722-b415-d5621c1fc59b"
-    },
-    {
+      },
+      {
         "title": "Open the book of prophecy",
         "description": "thats the bible ruvbbish",
         "category": "Work",
         "date": "2025-02-21",
         "id": "9705d327-cf5f-420c-94fd-3e5a5363c319"
-    },
-    {
+      },
+      {
         "title": "uncle joe",
         "description": "Why are you squeezing my toe?",
         "category": "Personal",
         "date": "2025-02-09",
         "id": "89413dd3-ff13-4686-abd4-7ff0da1e5319"
-    }
+      },
+      {
+        "title": "Complete Project Report",
+        "description": "Finish writing the final report for the ongoing project and review it before submission.",
+        "category": "Work",
+        "date": "2025-03-01",
+        "id": "d180d5c6-80ee-48e8-bafc-d5e150086141"
+      },
+      {
+        "title": "Grocery Shopping",
+        "description": "Buy groceries for the week, including fresh vegetables, fruits, and household items.",
+        "category": "Personal",
+        "date": "2025-02-28",
+        "id": "815b8dfb-7463-4149-a02b-1b29d619e7f8"
+      },
+      {
+        "title": "Doctor Appointment",
+        "description": "Attend a scheduled appointment with the general physician for a routine check-up.",
+        "category": "Personal",
+        "date": "2025-03-02",
+        "id": "3395b9b4-3dbc-44be-b64a-f5522f06bdb6"
+      },
+      {
+        "title": "Team Meeting",
+        "description": "Join the weekly team meeting to discuss project progress, challenges, and goals.",
+        "category": "Work",
+        "date": "2025-03-03",
+        "id": "3a888098-6995-4b4e-8fac-9fb27c9b4947"
+      },
+      {
+        "title": "Attend Yoga Class",
+        "description": "Participate in the weekly yoga session for relaxation and flexibility.",
+        "category": "Personal",
+        "date": "2025-03-04",
+        "id": "9815c306-13b6-4ed1-8f61-ee54eb071c8d"
+      },
+      {
+        "title": "Book Flights for Vacation",
+        "description": "Search for and book flights for the upcoming vacation trip.",
+        "category": "Personal",
+        "date": "2025-03-05",
+        "id": "bf538398-2209-4eae-9575-2b16ff488436"
+      },
+      {
+        "title": "Review Client Proposal",
+        "description": "Review and provide feedback on the proposal draft for a new client project.",
+        "category": "Work",
+        "date": "2025-03-02",
+        "id": "b48c6e6b-d3e4-47ad-a2c5-e8e264f5cd03"
+      },
+      {
+        "title": "Prepare Presentation for Board Meeting",
+        "description": "Create and organize slides for the upcoming presentation to the board of directors.",
+        "category": "Work",
+        "date": "2025-03-06",
+        "id": "6b3d2eaf-1baa-48f0-ad9c-2f4a7a104373"
+      },
+      {
+        "title": "Organize Team Training Session",
+        "description": "Schedule and coordinate a team training session on new software tools.",
+        "category": "Work",
+        "date": "2025-03-07",
+        "id": "9628e0ee-329c-419b-9859-8090af2e9aae"
+      },
+      {
+        "title": "Update Project Timeline",
+        "description": "Revise the project timeline to reflect the latest developments and deadlines.",
+        "category": "Work",
+        "date": "2025-03-08",
+        "id": "af033489-3dc7-489c-a114-972d420d4c7c"
+      },
+      {
+        "title": "Client Follow-Up Call",
+        "description": "Contact the client to follow up on recent discussions and ensure they are satisfied with the services.",
+        "category": "Work",
+        "date": "2025-03-09",
+        "id": "2db11bf4-2716-4df5-b12e-c784c38af9ab"
+      },
+      {
+        "title": "Write and Submit Weekly Status Report",
+        "description": "Write the weekly status report on all ongoing tasks and submit it to the project manager.",
+        "category": "Work",
+        "date": "2025-03-10",
+        "id": "6dbbdbbf-83f6-4acd-a0f9-231c6916eeec"
+      },
+      {
+        "title": "Update Company Website Content",
+        "description": "Revise and update content on the company website to reflect new product offerings.",
+        "category": "Work",
+        "date": "2025-03-12",
+        "id": "0c5d22e9-2489-4ba3-bf4e-e84f67d3e642"
+      },
+      {
+        "title": "Visit Parents",
+        "description": "Spend the weekend visiting parents and catching up with family.",
+        "category": "Personal",
+        "date": "2025-03-06",
+        "id": "760e5d47-40bf-4e93-9888-d49cf7397dc6"
+      },
+      {
+        "title": "Clean the House",
+        "description": "Do a deep cleaning of the house, including dusting, vacuuming, and organizing.",
+        "category": "Personal",
+        "date": "2025-03-07",
+        "id": "6f9c9c58-9a30-4304-9479-bd0abc30ce21"
+      }
   ],
 
   "notes": 
   [
     {
-        "title": "sfghn",
-        "description": "fghghiuujzerthj",
-        "background": "bg-success", 
-        "id": "d113eba6-5dba-4904-936c-8f92805ae144"
-    },
-    {
-        "title": "atchaar",
-        "description": "chow rubbish again and again",
+        "title": "Urgent: Project Deadline",
+        "description": "The project deadline has been moved up by a week. Make sure all tasks are completed on time.",
         "background": "bg-danger",
-        "id": "dfe7686b-69fc-4047-99af-7bf00321d32d"
-    },
-    {
-        "title": "lols",
-        "description": "rty v ghjkl ghj uio vbnm hjk vbnm yuio ghj vbnm, iop ,mnb fgh sdfg g",
+        "id": "d6e7089c-9b2d-418c-9f19-f5f0be7f7596"
+      },
+      {
+        "title": "Team Meeting Reminder",
+        "description": "Reminder: The weekly team meeting is scheduled for tomorrow at 10 AM. Don't forget to prepare updates.",
+        "background": "bg-info",
+        "id": "f66b4ce9-eb7a-46a5-a565-c80b38ef873f"
+      },
+      {
+        "title": "Lunch Break",
+        "description": "Lunch break from 12:00 PM to 1:00 PM. Remember to take a break and recharge!",
+        "background": "bg-success",
+        "id": "0c9aec19-f8ab-4df5-8076-313aa52f382e"
+      },
+      {
+        "title": "Client Feedback Received",
+        "description": "Client provided feedback on the proposal. We need to revise the document and send it back.",
         "background": "bg-warning",
-        "id": "dd3e2fca-e25b-416f-988f-1e1f55712374"
-    },
-    {
-        "title": "Data Scientist is the ugly guy over there1",
-        "description": "If true, the text will not wrap, but instead will truncate with a text overflow ellipsis.\nNote that text overflow can only happen with block or inline-block level elements (the element needs to have a width in order to overflow). The component maps the variant prop to a range of different HTML element types. For instance, subtitle1 to <h6>. If you wish to change that mapping, you can provide your own. Alternatively, you can use the component prop.",
-        "background": "bg-danger",
-        "id": "b9a856af-07a9-493b-b5df-4371fc92ae06"
-    }
+        "id": "c6350c07-df21-40c5-a5c0-7d3aea26fa1d"
+      },
+      {
+        "title": "New Employee Onboarding",
+        "description": "New team member starts next week. Prepare onboarding materials and welcome package.",
+        "background": "bg-success",
+        "id": "616a4645-d8a8-487f-82bf-a3c7368797fb"
+      },
+      {
+        "title": "System Maintenance",
+        "description": "Scheduled system maintenance will occur on Saturday from 2 AM to 4 AM. Ensure all work is saved beforehand.",
+        "background": "bg-warning",
+        "id": "0b54114d-ef20-4101-8d39-f31a0c632a96"
+      }
   ]
 }   
